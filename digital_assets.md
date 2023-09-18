@@ -17,11 +17,18 @@
 | [Temas Medievales 3](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Temas%20Medievales%203%20150dpi.pdf) |  
 | [Temas Medievales 2 ](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Temas%20Medievales%202%20150dpi.pdf)|  
 | [Temas Medievales 1](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Temas%20Medievales%201%20150%20dpi.pdf) |  
-|  |  
-|  |  
-|  |  
-|  |  
-|  |  
+| [Sociedad y memoria en la Edad Media](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Sociedad%20y%20Memoria%20en%20la%20Edad%20Media.pdf) |  
+| [Guía para viajeros medievales](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Nilda%20Guglielmi%20-%20Gui%CC%81a%20para%20Viajeros%20Medievales.pdf) |  
+| [Temas y testimonios 3](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Temas%20y%20Testimonios%203%20150%20dpi.pdf) |  
+| [Geodemos 1](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/geodemos%201%20150%20dpi.pdf) | 
+| [Geodemos 2](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Geodemos%202%20150%20dpi.pdf) |  
+| [Geodemos 3](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Geodemos%203%20150%20dpi.pdf) |  
+| [Geodemos 4](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Geodemos%204%20150%20dpi.pdf) |  
+| [Geodemos 5](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Geodemos%205%20150%20dpi.pdf) |  
+| [Geodemos 6](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Geodemos%206%20150dpi.pdf) |  
+| Geodemos 7 |  
+| Geodemos 8 |  
+| Geodemos 9 |  
 |  |  
 |  |  
 |  |  
