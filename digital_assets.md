@@ -26,13 +26,13 @@
 | [Geodemos 4](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Geodemos%204%20150%20dpi.pdf) |  
 | [Geodemos 5](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Geodemos%205%20150%20dpi.pdf) |  
 | [Geodemos 6](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Geodemos%206%20150dpi.pdf) |  
-| Geodemos 7 |  
-| Geodemos 8 |  
-| Geodemos 9 |  
-|  |  
-|  |  
-|  |  
-|  |  
+| [Geodemos 7-8](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Geodemos%207-8%20150dpi.pdf) |  
+| [Geodemos 9-10](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Geodemos%209-10%20150%20dpi.pdf) |  
+| [Geodemos 11](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Geodemos%2011%20150%20dpi.pdf) |  
+| [Geodemos 12-13](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/geodemos%2012-13%20150%20dpi.pdf) |  
+| [Geodemos 14-15](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Geodemos%2014-15%20150%20dpi.pdf) |  
+| Geodemos 1 |  
+| Geodemos 1 |  
 |  |  
 |  |  
 |  |  
