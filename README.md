@@ -5,7 +5,7 @@ The only purpose of this repository is just only one: a digital repo for our dig
 ### What is this repository for? ###
 
 * Quick summary
-    - Digital repository of digitial assets 
+    - Digital repository of digital assets 
 * Version 1.01
 
 ### How do I get set up? ###
