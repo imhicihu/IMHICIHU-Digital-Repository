@@ -31,8 +31,15 @@
 | [Geodemos 11](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Geodemos%2011%20150%20dpi.pdf) |  
 | [Geodemos 12-13](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/geodemos%2012-13%20150%20dpi.pdf) |  
 | [Geodemos 14-15](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Geodemos%2014-15%20150%20dpi.pdf) |  
-| Geodemos 1 |  
-| Geodemos 1 |  
-|  |  
-|  |  
-|  |  
+| [Revista de Estudios de Egiptología 5](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Revista%20de%20estudios%20de%20Egiptologi%CC%81a%205%20150%20dpi.pdf) |  
+| [Revista de Estudios de Egiptología 4](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Revista%20de%20Estudios%20de%20Egiptologi%CC%81a%204%20150%20dpi.pdf) |  
+| [Revista de Estudios de Egiptología 3](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Revista%20de%20Estudios%20de%20Egiptologi%CC%81a%203%20150%20dpi.pdf) |  
+| [Revista de Estudios de Egiptología 2](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Revista%20de%20Estudios%20de%20Egiptologi%CC%81a%202%20150%20dpi.pdf) |  
+| [Revista de Estudios de Egiptología 1](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Revista%20de%20Estudios%20de%20Egiptologi%CC%81a%201%20150%20dpi.pdf) |
+| [Derecho y Justicia](https://bitbucket.org/digital_repository/imhicihu-digital-repository/downloads/Derecho%20y%20Justicia.pdf)  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
